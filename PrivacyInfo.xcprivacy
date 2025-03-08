@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPrivacyTracking</key>
+	<dict>
+		<key>NSUserTrackingUsageDescription</key>
+		<string>We use this to sync your data across devices securely with Firebase.</string>
+		<key>NSLocalNetworkUsageDescription</key>
+		<string>Allow network access to sync your treatment plan with Firebase.</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Allow access to save or share your plan if needed.</string>
+	</dict>
+</dict>
+</plist>
